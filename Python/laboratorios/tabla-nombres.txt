@@ -1,0 +1,4 @@
+Nombre	Apellidos	Edad	Mascotas
+Ane	Ruiz castellano	63	Luna
+Juan	Aguirre delgado	46	Coco
+Leire	Palmero castañeda	18	bruno
